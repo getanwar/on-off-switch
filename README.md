@@ -5,7 +5,6 @@
 
 Dribbble shot link: [here](https://dribbble.com/shots/3005862-On-Off-Switch-Toggle-iOS)
 
-### Design Credits
-Al Rayhan
+### Design Credit: Al Rayhan
 
 Follow him on [Dribbble](https://dribbble.com/rtralrayhan)
